@@ -1,8 +1,9 @@
-# def4ult hacker club
+# pixies
 
 #### sponsored by
- * [@PR1V8](https://t.me/pr1v8)
  * [@cyberpunkrs](https://t.me/cyberpunkrs)
+ * [@PR1V8](https://t.me/pr1v8)
+ 
 
 ---
 
