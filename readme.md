@@ -1,10 +1,5 @@
 # pixies
 
-#### sponsored by
- * [@cyberpunkrs](https://t.me/cyberpunkrs)
- * [@PR1V8](https://t.me/pr1v8)
- 
-
 ---
 
 ###### edicoes
@@ -15,7 +10,7 @@
     * Empire Powershell & c&c redirector
     * Rice - O que é?
  * 1
-   * complete_MysqlInjection_intro.md
+   * complete_MysqlInjection_intro.m
    * howto_setup-tor-hiddenservice-using-docker.md
    * poc_torbrowser7-noscript-bypass.md
    * socialEngineeringFundamentals_pt1.md
